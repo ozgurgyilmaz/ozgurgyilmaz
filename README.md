@@ -1,4 +1,12 @@
 ## Hi there 👋
+**I am an Englsih Teacher and a programmer.
+
+**I have been interested in programming for 2 years. 
+I live in / Istanbul in Turkiye. 
+Please, visit my website[Udemy](www.ozgurgyilmaz.com)** 
+
+
+
 
 <!--
 **ozgurgyilmaz/ozgurgyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
