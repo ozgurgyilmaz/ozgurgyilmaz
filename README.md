@@ -3,7 +3,7 @@
 
 **I have been interested in programming for 2 years. 
 I live in / Istanbul in Turkiye. 
-Please, visit my website [Udemy](www.ozgurgyilmaz.com)** 
+Please, visit my website 
 [Linkedln](https://www.linkedin.com/in/ozgur-yilmaz-1a920472/)
 
 
