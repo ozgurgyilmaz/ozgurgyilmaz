@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I am an Englsih Teacher and a programmer.
+**I am a programmer.
 
 **I have been interested in programming for 2 years. 
 I live in / Istanbul in Turkiye. 
